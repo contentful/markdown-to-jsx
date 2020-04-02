@@ -24,9 +24,9 @@
     "LICENSE",
     "README.md"
   ],
-  "main": "dist/cjs.js",
-  "jsnext:main": "dist/esm.js",
-  "module": "dist/esm.js",
+  "main": "index.js",
+  "jsnext:main": "esm.js",
+  "module": "esm.js",
   "devDependencies": {
     "babel-cli": "^6.14.0",
     "babel-core": "^6.26.0",
@@ -89,7 +89,7 @@
   },
   "size-limit": [
     {
-      "path": "dist/cjs.js",
+      "path": "index.js",
       "limit": "5.28 kB"
     }
   ],
