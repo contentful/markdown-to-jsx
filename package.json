@@ -49,7 +49,7 @@
     "in-publish": "^2.0.0",
     "jest": "^23.6.0",
     "jest-serializer-html": "^5.0.0",
-    "markdown-it": "^8.4.2",
+    "markdown-it": "^12.3.2",
     "microtime": "^3.0.0",
     "mkdirp": "^0.5.1",
     "polished": "^3.0.3",
