@@ -61,7 +61,7 @@
     "react-dom": "^15.6.1",
     "react-markdown": "^4.0.3",
     "rimraf": "^2.6.2",
-    "simple-markdown": "^0.4.2",
+    "simple-markdown": "^0.6.1",
     "size-limit": "^0.21.1",
     "uglify-js": "^3.4.9",
     "webpack": "^4.21.0",
